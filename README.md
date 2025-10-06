@@ -121,5 +121,11 @@ CPU-Scheduling-Simulator/
 ├── README.md             # Project documentation
 ```
 
-l Gantt chart image or flowchart) in the README as well, so it looks more professional on GitHub? I can generate and embed them.
+## 📚 **References**
+
+* Operating System Concepts – Silberschatz, Galvin, Gagne
+
+* Modern Operating Systems – Andrew S. Tanenbaum
+
+* TutorialsPoint / GeeksforGeeks – CPU Scheduling Algorithms
 
