@@ -119,32 +119,7 @@ CPU-Scheduling-Simulator/
 │
 ├── cpu_scheduling.c      # Main simulation file
 ├── README.md             # Project documentation
-└── sample_output.txt     # Example outputs (optional)
 ```
 
----
-
-## 📚 **References**
-
-* **Operating System Concepts** – Silberschatz, Galvin, Gagne
-* **Modern Operating Systems** – Andrew S. Tanenbaum
-* TutorialsPoint / GeeksforGeeks – CPU Scheduling Algorithms
-
----
-
-## 🧑‍💻 **Author**
-
-**Your Name**
-📧 [your.email@example.com](mailto:your.email@example.com)
-🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
-
----
-
-## 🪶 **License**
-
-This project is licensed under the **MIT License** — feel free to modify and distribute with credit.
-
----
-
-Would you like me to include **diagrams** (like a visual Gantt chart image or flowchart) in the README as well, so it looks more professional on GitHub? I can generate and embed them.
+l Gantt chart image or flowchart) in the README as well, so it looks more professional on GitHub? I can generate and embed them.
 
