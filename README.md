@@ -89,7 +89,7 @@ Average Turnaround Time: 8.66
 
 ---
 
-## 📊 **Gantt Chart Visualization Example**
+## **Gantt Chart Visualization Example**
 
 ```
 | P1 | P2 | P3 |
