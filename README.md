@@ -1,6 +1,6 @@
-# ⚙️ CPU Scheduling Algorithms Simulator (with Gantt Chart Visualization) #
+# CPU Scheduling Algorithms Simulator (with Gantt Chart Visualization) #
 
-### 🎯 **Project Overview**
+### **Project Overview**
 
 This project simulates and visualizes **CPU Scheduling Algorithms** — fundamental concepts in Operating Systems that determine the order in which processes are executed.
 It supports major scheduling algorithms including:
@@ -14,7 +14,7 @@ A **Gantt Chart** is also generated in the console for each algorithm, providing
 
 ---
 
-## 🧠 **Concepts Covered**
+## **Concepts Covered**
 
 | Algorithm               | Type           | Description                                              |
 | ----------------------- | -------------- | -------------------------------------------------------- |
@@ -25,20 +25,20 @@ A **Gantt Chart** is also generated in the console for each algorithm, providing
 
 ---
 
-## 🧩 **Features**
+##  **Features**
 
-✅ Supports multiple scheduling algorithms
-✅ Displays **Process Table** (Arrival, Burst, Waiting, Turnaround times)
-✅ Generates a **Gantt Chart** in text format
-✅ Calculates:
+Supports multiple scheduling algorithms
+Displays **Process Table** (Arrival, Burst, Waiting, Turnaround times)
+Generates a **Gantt Chart** in text format
+Calculates:
 
 * Average Waiting Time
 * Average Turnaround Time
-  ✅ Simple **Menu-based interface** for interaction
+  Simple **Menu-based interface** for interaction
 
 ---
 
-## 💻 **How to Run**
+## **How to Run**
 
 ### 1. **Clone this repository**
 
@@ -61,9 +61,9 @@ gcc cpu_scheduling.c -o cpu_scheduling
 
 ---
 
-## 🧾 **Sample Output**
+## **Sample Output**
 
-### 🔹 Example (FCFS Algorithm)
+### Example (FCFS Algorithm)
 
 ```
 Enter number of processes: 3
@@ -103,7 +103,7 @@ You can visually interpret:
 
 ---
 
-## 🧠 **Learning Objectives**
+## **Learning Objectives**
 
 * Understand the working of CPU Scheduling algorithms.
 * Analyze CPU utilization and process performance.
@@ -112,7 +112,7 @@ You can visually interpret:
 
 ---
 
-## 🧩 **Code Structure**
+## **Code Structure**
 
 ```
 CPU-Scheduling-Simulator/
@@ -121,7 +121,7 @@ CPU-Scheduling-Simulator/
 ├── README.md             # Project documentation
 ```
 
-## 📚 **References**
+## **References**
 
 * Operating System Concepts – Silberschatz, Galvin, Gagne
 
